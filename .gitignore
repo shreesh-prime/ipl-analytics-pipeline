@@ -1,0 +1,10 @@
+data/ipl_json/
+data/chunks/
+data/ipl_json.zip
+data/ipl_matches.ndjson
+*.twb
+*.twbr
+.~*
+.DS_Store
+.env
+connections.toml
