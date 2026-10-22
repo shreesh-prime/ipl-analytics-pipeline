@@ -2,7 +2,7 @@
 
 An end-to-end analytics project on every IPL match from 2008 to 2026: ball-by-ball JSON from Cricsheet is loaded into Snowflake, modeled through raw, staging, and mart layers in SQL, and visualized in an interactive Tableau dashboard about who wins the death overs (overs 16 to 20).
 
-**Live dashboard:** [Tableau Public link](TABLEAU_PUBLIC_LINK_HERE)
+**Live dashboard:** [Tableau Public link](https://public.tableau.com/views/IplDeathOversDashboard/IPLDeathOversDashboard?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link)
 
 ![Dashboard](images/dashboard.png)
 
